@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App_MantAutomoviles</string>
+    <string name="selecciona_marca">Selecciona marca</string>
+    <string name="selecciona_modelo">Selecciona modelo</string>
+    <string name="selecciona_ano">Selecciona año</string>
+    <string name="selecciona_version">Selecciona versión</string>
+    <string name="selecciona_transmision">Selecciona transmisión</string>
+</resources>
